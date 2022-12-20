@@ -1,20 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.c66e205d.css",
-    "main.js": "/static/js/main.9a2d35ba.js",
+    "main.css": "/static/css/main.deabe0be.css",
+    "main.js": "/static/js/main.c734fe41.js",
     "static/js/787.931ba5e8.chunk.js": "/static/js/787.931ba5e8.chunk.js",
-    "static/media/bgvideo.mp4": "/static/media/bgvideo.508d01c526625e0dd08b.mp4",
+    "static/media/adrian-sulyok-InMD-APxayI-unsplash.jpg": "/static/media/adrian-sulyok-InMD-APxayI-unsplash.7770bd630f55970b1e2e.jpg",
+    "static/media/ernesto-leon-4H_I-HRjkyA-unsplash.jpg": "/static/media/ernesto-leon-4H_I-HRjkyA-unsplash.7d0610603d8931f90145.jpg",
+    "static/media/joseph-paul-jOi8CLM2aaI-unsplash.jpg": "/static/media/joseph-paul-jOi8CLM2aaI-unsplash.bd56110674b9d7283b98.jpg",
+    "static/media/handsome-man-truck-driver-standing-by-truck 1.png": "/static/media/handsome-man-truck-driver-standing-by-truck 1.de5dbc40c5253d1e2984.png",
+    "static/media/sen_currior.png": "/static/media/sen_currior.5dead9d27a5bea75ef7c.png",
+    "static/media/pexels-elevate-1267338 1.png": "/static/media/pexels-elevate-1267338 1.0425357d01fc12082077.png",
+    "static/media/Screenshot 2022-11-24 at 11.27 1.png": "/static/media/Screenshot 2022-11-24 at 11.27 1.dfd550efeeadaae56bd9.png",
+    "static/media/kendall-henderson-Pj6TgpS_Vt4-unsplash.jpg": "/static/media/kendall-henderson-Pj6TgpS_Vt4-unsplash.059e6762895ddfcebf56.jpg",
+    "static/media/MissionImage.png": "/static/media/MissionImage.93113941c639d9442caf.png",
+    "static/media/bgImage about us services.png": "/static/media/bgImage about us services.a6075421d85b51f41fcb.png",
+    "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
     "static/media/EncodeSansSemiCondensed-ExtraLight.ttf": "/static/media/EncodeSansSemiCondensed-ExtraLight.2c4e2225fa491901df46.ttf",
     "static/media/logo.png": "/static/media/logo.aa7587a0219028d89fb6.png",
     "static/media/FamiljenGroteskGF-BoldItalic.ttf": "/static/media/FamiljenGroteskGF-BoldItalic.d52d5c6c8e4f738fd6e4.ttf",
+    "static/media/vecteezy_halftone-australia-map_7d119415 1.png": "/static/media/vecteezy_halftone-australia-map_7d119415 1.e9aff3666b498ceb5298.png",
+    "static/media/design about us services.png": "/static/media/design about us services.a4fb97bcbd355f941ca0.png",
     "static/media/ExpletusSans-BoldItalic.ttf": "/static/media/ExpletusSans-BoldItalic.20a1b71ceffb04d7e3e9.ttf",
     "index.html": "/index.html",
-    "main.c66e205d.css.map": "/static/css/main.c66e205d.css.map",
-    "main.9a2d35ba.js.map": "/static/js/main.9a2d35ba.js.map",
+    "main.deabe0be.css.map": "/static/css/main.deabe0be.css.map",
+    "main.c734fe41.js.map": "/static/js/main.c734fe41.js.map",
     "787.931ba5e8.chunk.js.map": "/static/js/787.931ba5e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c66e205d.css",
-    "static/js/main.9a2d35ba.js"
+    "static/css/main.deabe0be.css",
+    "static/js/main.c734fe41.js"
   ]
 }
