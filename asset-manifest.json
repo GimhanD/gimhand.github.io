@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab638f15.css",
-    "main.js": "/static/js/main.f3ab2034.js",
+    "main.css": "/static/css/main.285fd713.css",
+    "main.js": "/static/js/main.af9a7bb6.js",
     "static/js/787.931ba5e8.chunk.js": "/static/js/787.931ba5e8.chunk.js",
     "static/media/wallpaperflare 1.png": "/static/media/wallpaperflare 1.31452e5c8db8d3c9c446.png",
     "static/media/senConsolidated.png": "/static/media/senConsolidated.e72648ef52ffc4c89ce5.png",
-    "static/media/ernesto-leon-4H_I-HRjkyA-unsplash.jpg": "/static/media/ernesto-leon-4H_I-HRjkyA-unsplash.7d0610603d8931f90145.jpg",
     "static/media/joseph-paul-jOi8CLM2aaI-unsplash.jpg": "/static/media/joseph-paul-jOi8CLM2aaI-unsplash.bd56110674b9d7283b98.jpg",
     "static/media/handsome-man-truck-driver-standing-by-truck 1.png": "/static/media/handsome-man-truck-driver-standing-by-truck 1.de5dbc40c5253d1e2984.png",
     "static/media/Group 1000001829.png": "/static/media/Group 1000001829.ad8bb7f3d1f2c65d4c4f.png",
@@ -15,7 +14,7 @@
     "static/media/Group 81.png": "/static/media/Group 81.e666b46c747d35c114f3.png",
     "static/media/Rectangle 30.png": "/static/media/Rectangle 30.1cd9fc0456f3fed50cab.png",
     "static/media/whowearesenlocaldistributionimage1.png": "/static/media/whowearesenlocaldistributionimage1.6bb01694d14cfa7ef999.png",
-    "static/media/kendall-henderson-Pj6TgpS_Vt4-unsplash.jpg": "/static/media/kendall-henderson-Pj6TgpS_Vt4-unsplash.059e6762895ddfcebf56.jpg",
+    "static/media/Group 83.png": "/static/media/Group 83.4179c41003f419b3f7fd.png",
     "static/media/MissionImage.png": "/static/media/MissionImage.93113941c639d9442caf.png",
     "static/media/bgImage about us services.png": "/static/media/bgImage about us services.a6075421d85b51f41fcb.png",
     "static/media/Rectangle 31.png": "/static/media/Rectangle 31.ebb23ae0dabc541e1bae.png",
@@ -34,12 +33,12 @@
     "static/media/Ellipse 9.png": "/static/media/Ellipse 9.2df8fd243847976ed009.png",
     "static/media/Ellipse 8.png": "/static/media/Ellipse 8.02596ae09105bbacf5b9.png",
     "index.html": "/index.html",
-    "main.ab638f15.css.map": "/static/css/main.ab638f15.css.map",
-    "main.f3ab2034.js.map": "/static/js/main.f3ab2034.js.map",
+    "main.285fd713.css.map": "/static/css/main.285fd713.css.map",
+    "main.af9a7bb6.js.map": "/static/js/main.af9a7bb6.js.map",
     "787.931ba5e8.chunk.js.map": "/static/js/787.931ba5e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab638f15.css",
-    "static/js/main.f3ab2034.js"
+    "static/css/main.285fd713.css",
+    "static/js/main.af9a7bb6.js"
   ]
 }
