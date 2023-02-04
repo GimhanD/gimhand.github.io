@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a89dde3.css",
-    "main.js": "/static/js/main.5a784841.js",
+    "main.css": "/static/css/main.2a00ed80.css",
+    "main.js": "/static/js/main.dbc9509b.js",
     "static/js/787.931ba5e8.chunk.js": "/static/js/787.931ba5e8.chunk.js",
     "static/media/wallpaperflare 1.png": "/static/media/wallpaperflare 1.31452e5c8db8d3c9c446.png",
     "static/media/senConsolidated.png": "/static/media/senConsolidated.e72648ef52ffc4c89ce5.png",
-    "static/media/joseph-paul-jOi8CLM2aaI-unsplash.jpg": "/static/media/joseph-paul-jOi8CLM2aaI-unsplash.bd56110674b9d7283b98.jpg",
     "static/media/handsome-man-truck-driver-standing-by-truck 1.png": "/static/media/handsome-man-truck-driver-standing-by-truck 1.de5dbc40c5253d1e2984.png",
     "static/media/Group 1000001829.png": "/static/media/Group 1000001829.ad8bb7f3d1f2c65d4c4f.png",
     "static/media/Group 1000001832.png": "/static/media/Group 1000001832.8f091160849818823706.png",
@@ -24,21 +23,25 @@
     "static/media/EncodeSansSemiCondensed-ExtraLight.ttf": "/static/media/EncodeSansSemiCondensed-ExtraLight.2c4e2225fa491901df46.ttf",
     "static/media/logo.png": "/static/media/logo.aa7587a0219028d89fb6.png",
     "static/media/FamiljenGroteskGF-BoldItalic.ttf": "/static/media/FamiljenGroteskGF-BoldItalic.d52d5c6c8e4f738fd6e4.ttf",
+    "static/media/logo1.png": "/static/media/logo1.b94ecba3493cf83b9884.png",
     "static/media/image 18.png": "/static/media/image 18.58e1a74cee44f3a61c30.png",
     "static/media/Ellipse 14.png": "/static/media/Ellipse 14.f2c4131ca82c6c03e767.png",
     "static/media/vecteezy_halftone-australia-map_7d119415 1.png": "/static/media/vecteezy_halftone-australia-map_7d119415 1.e9aff3666b498ceb5298.png",
     "static/media/design about us services.png": "/static/media/design about us services.a4fb97bcbd355f941ca0.png",
     "static/media/ExpletusSans-BoldItalic.ttf": "/static/media/ExpletusSans-BoldItalic.20a1b71ceffb04d7e3e9.ttf",
     "static/media/animation1.png": "/static/media/animation1.47d78266a490b0ce128b.png",
+    "static/media/left.png": "/static/media/left.a4cfa3da98b8e2f1c2c1.png",
     "static/media/Ellipse 9.png": "/static/media/Ellipse 9.2df8fd243847976ed009.png",
+    "static/media/right.png": "/static/media/right.2e12ccdea8b5b93e9e90.png",
+    "static/media/call.png": "/static/media/call.17c3b77a95f83d305814.png",
     "static/media/Ellipse 8.png": "/static/media/Ellipse 8.02596ae09105bbacf5b9.png",
     "index.html": "/index.html",
-    "main.6a89dde3.css.map": "/static/css/main.6a89dde3.css.map",
-    "main.5a784841.js.map": "/static/js/main.5a784841.js.map",
+    "main.2a00ed80.css.map": "/static/css/main.2a00ed80.css.map",
+    "main.dbc9509b.js.map": "/static/js/main.dbc9509b.js.map",
     "787.931ba5e8.chunk.js.map": "/static/js/787.931ba5e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a89dde3.css",
-    "static/js/main.5a784841.js"
+    "static/css/main.2a00ed80.css",
+    "static/js/main.dbc9509b.js"
   ]
 }
