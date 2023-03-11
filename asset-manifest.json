@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.618f5db0.css",
-    "main.js": "/static/js/main.fd3954a2.js",
+    "main.css": "/static/css/main.c8a97682.css",
+    "main.js": "/static/js/main.0909b25b.js",
     "static/js/787.931ba5e8.chunk.js": "/static/js/787.931ba5e8.chunk.js",
     "static/media/wallpaperflare 1.png": "/static/media/wallpaperflare 1.31452e5c8db8d3c9c446.png",
     "static/media/senConsolidated.png": "/static/media/senConsolidated.e72648ef52ffc4c89ce5.png",
+    "static/media/teambg.png": "/static/media/teambg.c30297b04e364d734c88.png",
     "static/media/handsome-man-truck-driver-standing-by-truck 1.png": "/static/media/handsome-man-truck-driver-standing-by-truck 1.de5dbc40c5253d1e2984.png",
     "static/media/Group 1000001829.png": "/static/media/Group 1000001829.ad8bb7f3d1f2c65d4c4f.png",
+    "static/media/stock-photo-freight-transportation-and-logistic-warehouse-forklift-driver-loading-the-shipment-pallet-into-a-1092496493.jpg": "/static/media/stock-photo-freight-transportation-and-logistic-warehouse-forklift-driver-loading-the-shipment-pallet-into-a-1092496493.e5e472ba25bf6a2c8798.jpg",
     "static/media/Group 1000001832.png": "/static/media/Group 1000001832.8f091160849818823706.png",
-    "static/media/Rectangle 14.png": "/static/media/Rectangle 14.abef3a65ed25723d66c2.png",
     "static/media/pexels-elevate-1267338 1.png": "/static/media/pexels-elevate-1267338 1.0425357d01fc12082077.png",
     "static/media/Group 81.png": "/static/media/Group 81.e666b46c747d35c114f3.png",
     "static/media/Rectangle 30.png": "/static/media/Rectangle 30.1cd9fc0456f3fed50cab.png",
     "static/media/whowearesenlocaldistributionimage1.png": "/static/media/whowearesenlocaldistributionimage1.6bb01694d14cfa7ef999.png",
-    "static/media/Group 83.png": "/static/media/Group 83.4179c41003f419b3f7fd.png",
+    "static/media/Group 83.png": "/static/media/Group 83.07f2b587ecc59e5d8c3d.png",
     "static/media/MissionImage.png": "/static/media/MissionImage.93113941c639d9442caf.png",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
+    "static/media/ourTeam_1.png": "/static/media/ourTeam_1.876802407f399f2fa221.png",
     "static/media/bgImage about us services.png": "/static/media/bgImage about us services.a6075421d85b51f41fcb.png",
     "static/media/Rectangle 31.png": "/static/media/Rectangle 31.ebb23ae0dabc541e1bae.png",
     "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
@@ -23,6 +26,7 @@
     "static/media/EncodeSansSemiCondensed-ExtraLight.ttf": "/static/media/EncodeSansSemiCondensed-ExtraLight.2c4e2225fa491901df46.ttf",
     "static/media/logo1.png": "/static/media/logo1.86a54c885aa3eaab8239.png",
     "static/media/logo.png": "/static/media/logo.aa7587a0219028d89fb6.png",
+    "static/media/ourTeam_2.png": "/static/media/ourTeam_2.dfef784246b230dfb7ce.png",
     "static/media/FamiljenGroteskGF-BoldItalic.ttf": "/static/media/FamiljenGroteskGF-BoldItalic.d52d5c6c8e4f738fd6e4.ttf",
     "static/media/image 18.png": "/static/media/image 18.58e1a74cee44f3a61c30.png",
     "static/media/Ellipse 14.png": "/static/media/Ellipse 14.f2c4131ca82c6c03e767.png",
@@ -36,12 +40,12 @@
     "static/media/call.png": "/static/media/call.17c3b77a95f83d305814.png",
     "static/media/Ellipse 8.png": "/static/media/Ellipse 8.02596ae09105bbacf5b9.png",
     "index.html": "/index.html",
-    "main.618f5db0.css.map": "/static/css/main.618f5db0.css.map",
-    "main.fd3954a2.js.map": "/static/js/main.fd3954a2.js.map",
+    "main.c8a97682.css.map": "/static/css/main.c8a97682.css.map",
+    "main.0909b25b.js.map": "/static/js/main.0909b25b.js.map",
     "787.931ba5e8.chunk.js.map": "/static/js/787.931ba5e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.618f5db0.css",
-    "static/js/main.fd3954a2.js"
+    "static/css/main.c8a97682.css",
+    "static/js/main.0909b25b.js"
   ]
 }
